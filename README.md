@@ -61,6 +61,11 @@ Windows (Powershell):
 Change the `DATABASE_URL`, `AUTH0_DOMAIN` and `API_AUDIENCE` in the `.env` file to reflect your environment.
 
 ### Run the app
+
+The hosted version is at https://udacity-capstone.onrender.com/
+
+This application can be run locally with command:
+
 ```bash
 flask run
 ```
